@@ -25,8 +25,7 @@ public class function11 {
             } catch (Exception e) {
                 System.out.println("Invalid input. Please enter a positive integer.");
             }
-        }
-        
+        }      
        // scan.close();
         printFibonacciSeries(nth);
     }
