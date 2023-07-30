@@ -1,4 +1,4 @@
-//pracitce of fibonachi series
+//pracitce of fibonacci series
 import java.util.*;
 public class function11 {
     public static void printFibonacciSeries(int nth){
